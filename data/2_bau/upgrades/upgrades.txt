@@ -1,0 +1,15 @@
+Define upper level genetic algorithm parameters for grid upgrades by modifying the upgrades.json fils
+Questions to answer before running this script.
+	what are the possible locations of batteries and SVRs. What is the energy capacity search space for the first one?
+    	which cables are overloaded and might need replacement. What are the possible upgrades.
+
+lines:
+	Keys in [:lines] dict are the existing line ids
+	Values are the possible upgrade linecodes. Don't include the current linecode.
+
+svr, oltc:
+	the svr and oltc vectors include the start and end buses
+
+batteries:
+	Keys are the battery connections nodes in the network. Add in ascending order!!!
+        Values define upper and lower bounds for the energy capacity(kWh)

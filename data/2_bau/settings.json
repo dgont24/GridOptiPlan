@@ -1,0 +1,11 @@
+{
+    "investment_year":9,
+    "first_flexibility_year": 9,
+    "final_load_growth_year": 11,
+    "final_year": 15,
+    "interest_rate": 0.015,
+    "assets_life_expectancy": 40,
+    "upgrades": ["lines", "batteries"],
+    "violations_config": "SoftLimitsConfig",
+    "ev_config": "LinearEVConfig"   
+}

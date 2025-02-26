@@ -1,0 +1,55 @@
+meter_id,code,car_model,usable_energy_capacity_kWh,max_ac_charging_power_kW,load_id,profile_name
+1003,1,Tesla Model 3,75,22,1,ev_profile_1.csv
+1005,1,Fiat 500,37,11,2,ev_profile_2.csv
+1006,1,Volvo XC40,75,11,3,ev_profile_3.csv
+1014,1,Volkswagen ID.3,58,11,5,ev_profile_4.csv
+1015,1,Renault Zoe,52,22,6,ev_profile_5.csv
+1018,1,Hyundai Kona,64,11,8,ev_profile_6.csv
+1021,2,Hyundai Kona,64,11,10,ev_profile_7.csv
+1022,1,Renault Zoe,52,22,11,ev_profile_8.csv
+1026,2,Tesla Model 3,75,22,12,ev_profile_9.csv
+1028,2,Tesla Model 3,75,22,14,ev_profile_10.csv
+1033,1,Tesla Model 3,75,22,16,ev_profile_11.csv
+1035,1,Tesla Model 3,75,22,17,ev_profile_12.csv
+1036,1,Tesla Model Y,75,11,18,ev_profile_13.csv
+1045,1,Volkswagen ID.3,58,11,21,ev_profile_14.csv
+1050,2,Tesla Model 3,75,22,23,ev_profile_15.csv
+1052,1,Volkswagen ID.3,58,11,24,ev_profile_16.csv
+1053,1,Tesla Model Y,75,11,25,ev_profile_17.csv
+1055,1,Volkswagen ID.3,58,11,27,ev_profile_18.csv
+1056,2,Volkswagen ID.4,77,11,28,ev_profile_19.csv
+1058,1,Tesla Model Y,75,11,30,ev_profile_20.csv
+1059,1,Volkswagen ID.4,77,11,31,ev_profile_21.csv
+1062,1,Volkswagen ID.4,77,11,32,ev_profile_22.csv
+1064,1,Audi e-tron 55 quattro,86,11,33,ev_profile_23.csv
+1067,1,Tesla Model 3,75,22,35,ev_profile_24.csv
+1073,1,Tesla Model 3,75,22,38,ev_profile_25.csv
+1074,1,Skoda Enyaq iV 80,77,11,39,ev_profile_26.csv
+1075,1,Volkswagen ID.4,77,11,40,ev_profile_27.csv
+1077,1,Audi e-tron 55 quattro,86,11,42,ev_profile_28.csv
+1079,1,Tesla Model Y,75,11,43,ev_profile_29.csv
+1082,1,Volvo XC40,75,11,45,ev_profile_30.csv
+1083,1,Tesla Model 3,75,22,46,ev_profile_31.csv
+1096,1,Hyundai Kona,64,11,50,ev_profile_32.csv
+1101,2,Volkswagen ID.3,58,11,52,ev_profile_33.csv
+1105,1,Tesla Model 3,75,22,53,ev_profile_34.csv
+1107,1,Skoda Enyaq iV 80,77,11,54,ev_profile_35.csv
+1110,1,Tesla Model 3,75,22,57,ev_profile_36.csv
+1115,1,Tesla Model 3,75,22,58,ev_profile_37.csv
+1119,1,Tesla Model 3,75,22,59,ev_profile_38.csv
+1123,1,Tesla Model 3,75,22,61,ev_profile_39.csv
+1130,1,Renault Zoe,52,22,64,ev_profile_40.csv
+1132,1,Audi e-tron 55 quattro,86,11,65,ev_profile_41.csv
+1133,1,Skoda Enyaq iV 80,77,11,66,ev_profile_42.csv
+1136,1,Fiat 500,37,11,67,ev_profile_43.csv
+1138,1,Skoda Enyaq iV 80,77,11,68,ev_profile_44.csv
+1140,1,Skoda Enyaq iV 80,77,11,70,ev_profile_45.csv
+1141,1,Renault Zoe,52,22,71,ev_profile_46.csv
+1142,2,Volvo XC40,75,11,72,ev_profile_47.csv
+1144,1,Fiat 500,37,11,73,ev_profile_48.csv
+1146,2,Volkswagen ID.3,58,11,74,ev_profile_49.csv
+1147,1,Tesla Model 3,75,22,75,ev_profile_50.csv
+1148,1,Skoda Enyaq iV 80,77,11,76,ev_profile_51.csv
+1155,1,Renault Zoe,52,22,77,ev_profile_52.csv
+1157,1,Fiat 500,37,11,78,ev_profile_53.csv
+1168,1,Volkswagen ID.3,58,11,80,ev_profile_54.csv

@@ -1,0 +1,8 @@
+# model 1 in Loads is constant PQ
+
+# Substation transformer connected Delta/grounded-wye
+
+# Cables
+ SAC XSC = Single core aluminium, XLPE insulated split
+concentric neutral and earth
+

@@ -1,0 +1,15 @@
+bus,id,name,profile_name,initial_consumption_kW,max_ac_charging_kW,integration_year
+39,1,EV1,ev_profile_28.csv,0,11,3
+42,2,EV2,ev_profile_2.csv,0,11,6
+47,3,EV3,ev_profile_32.csv,0,11,9
+52,4,EV4,ev_profile_50.csv,0,22,4
+54,5,EV5,ev_profile_14.csv,0,11,10
+66,6,EV6,ev_profile_36.csv,0,22,8
+67,7,EV7,ev_profile_24.csv,0,22,8
+75,8,EV8,ev_profile_39.csv,0,22,2
+76,9,EV9,ev_profile_52.csv,0,22,9
+77,10,EV10,ev_profile_40.csv,0,22,7
+80,11,EV11,ev_profile_54.csv,0,11,10
+83,12,EV12,ev_profile_37.csv,0,22,5
+97,13,EV13,ev_profile_21.csv,0,11,9
+112,14,EV14,ev_profile_20.csv,0,11,8

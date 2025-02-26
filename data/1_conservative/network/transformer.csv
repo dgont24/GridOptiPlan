@@ -1,0 +1,2 @@
+name,phases,bus1,bus2,kv_pri,kv_sec,mva,conn_pri,conn_sec,x_100,r_100
+TR1,3,0,1,11,0.416,0.8, Delta, Wye,4,0.4

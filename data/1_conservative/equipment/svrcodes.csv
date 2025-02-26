@@ -1,0 +1,5 @@
+code,name,reg,ns,max_n,cinv,cmain
+1,default_1,0.1,8,700000,7000,5
+2,alternative_1,0.05,8,700000,5000,5
+3,default_2,0.1,32,700000,7000,5
+4,alternative_2,0.05,16,700000,5000,5
