@@ -25,3 +25,16 @@ julia> using Pkg
 ```
 
 A representative example of how to run the entire process can be found in the file `example.jl`.
+
+## Citing GridOptiPlan
+If you find GridOptiPlan useful for your research or projects, we kindly request to you cite the following publication:
+
+@article{2025125254,
+  author = {Dimitrios Gkontoras and Nikolaos A. Efkarpidis and Johan Morren and Han Slootweg and Hans Edin},
+  title = {Bi-level framework for planning assessment of distribution grids based on smart grid technologies and conventional grid upgrades},
+  journal = {Applied Energy},
+  volume = {383},
+  pages = {125254},
+  year = {2025},
+  doi = {https://doi.org/10.1016/j.apenergy.2024.125254}
+}
